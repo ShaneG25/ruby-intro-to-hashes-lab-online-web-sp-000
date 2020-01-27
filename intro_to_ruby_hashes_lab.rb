@@ -52,16 +52,16 @@ def monopoly_with_fourth_tier
       pieces: 4,
       names: {
         reading_railroad: {
-          ''
+          'mortgage'
         },
         pennsylvania_railroad: {
-          ''
+          'mortgage'
         }, 
         b_and_o_railroad: {
-          ''
+          'mortgage'
         }, 
         shortline: {
-          ''
+          'mortgage'
         }
       }, 
       rent_in_dollars: {
